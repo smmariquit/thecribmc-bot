@@ -6,8 +6,8 @@ This Discord bot supports The Crib Minecraft server community. This policy descr
 
 ## What we process
 
-- **Discord account data** Discord provides when you use slash commands (e.g. user ID, username, guild context) — used only to respond to commands.
-- **Interaction content** only when required for a documented bot feature — not used for advertising or resale.
+- **Discord account data** Discord provides when you use slash commands (e.g. user ID, username, guild context): used only to respond to commands.
+- **Interaction content** only when required for a documented bot feature: not used for advertising or resale.
 
 ## What we do not do
 
